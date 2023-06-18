@@ -1,0 +1,36 @@
+header{
+    color:red;
+    text-transform:uppercase;
+    background-color:blanchedalmond;
+    padding-left:350px;
+    padding-right:350px;
+    background-clip:content-box;}
+#text{
+    text-indent: 90px;
+    color:blue;
+    font-size:50px;
+    background-color:rgb(179, 255, 3);
+    font-family:Arial, Helvetica, sans-serif;
+}
+#def{
+    color:blue;
+    font-size:50px;
+    background-color:rgb(255, 153, 0);
+}
+body{
+    background-image:url("");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color:black;
+}
+#txt{
+    color:blue;
+    font-size:25px;
+    background-color:rgb(250, 152, 5);
+    font-family:Arial, Helvetica, sans-serif;
+}
+#whatsapp{
+    font-size:medium;
+    color:green;
+}

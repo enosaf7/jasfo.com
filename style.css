@@ -1,0 +1,164 @@
+header{
+    color:red;
+    text-transform:uppercase;
+    background-color:blanchedalmond;
+    padding-left:350px;
+    padding-right:350px;
+    background-clip:content-box;
+    
+}
+#hd{
+    text-transform:uppercase;
+}
+#tel{
+    color:green;
+    background-color:blanchedalmond;
+}
+#intro{
+    background-color:blanchedalmond;
+    color:blue;
+    background-clip:content-box;
+    padding-left:350px;
+    padding-right:350px;
+
+}
+#loc{
+    color:rgb(25, 0, 252);
+    background-color:blanchedalmond;
+}
+#services{
+    font-size:xx-large;
+    text-transform:uppercase;
+    color:red;
+    text-decoration:underline;
+}
+body{
+    background-image:url("cutting-metal-with-plasma-equipment-plant.jpg");
+    background-position:bottom;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#cards{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family:sans-serif;
+
+}
+#card-container{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    margin-top:100px;
+
+}
+#card1{
+    width:325px;
+    height:500px;
+    background-color:orangered;
+    border-radius:8px;
+    overflow:hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin:20px;
+}
+#card2{width:325px;
+    height:500px;
+    background-color:yellow;
+    border-radius:8px;
+    overflow:hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin:20px;}
+#card3{width:325px;
+    height:500px;
+    background-color:rgb(0, 247, 255);
+    border-radius:8px;
+    overflow:hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin:20px;}
+#card4{width:325px;
+    height:500px;
+    background-color:orangered;
+    border-radius:8px;
+    overflow:hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin:20px;}
+#card5{width:325px;
+    height:500px;
+    background-color:yellow;
+    border-radius:8px;
+    overflow:hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin:20px;}
+#card6{width:325px;
+    height:500px;
+    background-color:rgb(1, 238, 255);
+    border-radius:8px;
+    overflow:hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin:20px;}
+#card7{width:325px;
+    height:500px;
+    background-color:orangered;
+    border-radius:8px;
+    overflow:hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin:20px;}
+#card8{width:325px;
+    height:500px;
+    background-color:rgb(1, 255, 242);
+    border-radius:8px;
+    overflow:hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin:20px;}    
+#card1 img{
+    width:100%;
+    height:auto;
+}
+#card2 img{
+    width:100%;
+    height:auto;}
+#card3 img{
+        width:100%;
+        height:auto;}
+#card4 img{
+        width:100%;
+        height:auto;}
+#card4 img{
+    width:100%;
+    height:auto;}
+#card5 img{
+    width:100%;
+    height:auto;}
+#card6 img{
+    width:100%;
+    height:auto;}
+#card7 img{
+    width:100%;
+    height:auto;}
+#card8 img{
+    width:100%;
+    height:auto;}
+#card-content{
+    padding:16px;
+}
+#card-content h3{
+    font-size:28px;
+    margin-bottom:8px;
+}
+#btn{
+    background-color: black;
+    color:white;
+    border-radius:30px;
+}
+#btn:hover{
+    background-color:red;
+    color:black;
+    height:50px;
+    width:90px;
+    
+}
+h2{
+    color:rgb(2, 7, 0);
+    
+}
